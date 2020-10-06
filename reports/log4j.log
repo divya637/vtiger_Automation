@@ -1,0 +1,7 @@
+2020-10-05 21:48:48,478com.script.Login_LogoutTestusername completed
+2020-10-05 21:48:48,479com.script.Login_LogoutTestpassword completed
+2020-10-05 21:48:53,327freemarker.cacheCouldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-10-05 21:48:53,328freemarker.cacheTemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-10-05 21:48:53,331freemarker.cacheTemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-10-05 21:48:53,332freemarker.cacheTemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-10-05 21:48:53,332freemarker.cacheLoading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/PC/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
